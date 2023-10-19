@@ -390,6 +390,8 @@ section .title::after{
     overflow: hidden;
     transition: all 0.3s ease;
 }
+
+
 .teams .carousel .card:hover{
     background: crimson;
 }
@@ -549,6 +551,11 @@ footer span a{
 }
 footer span a:hover{
     text-decoration: underline;
+}
+
+.projectCard{
+    color: white;
+    cursor: pointer;
 }
 
 
